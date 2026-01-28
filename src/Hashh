@@ -1,0 +1,5 @@
+npm install react-bootstrap bootstrap
+npm i react-router-dom
+npm install react-icons
+npm install framer-motion
+npm install --save-dev gh-pages
