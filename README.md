@@ -1,16 +1,56 @@
-# React + Vite
+# 🛒 Shopco – E-commerce Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Shopco** repository! This project is an online store built with **React + Vite** and showcases modern frontend development skills. Products are fetched dynamically from an external **API**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## React Compiler
+Check out the live website here:  
+[https://soadamrf.github.io/shopco/](https://soadamrf.github.io/shopco/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project uses modern frontend technologies for performance, responsiveness, and smooth user experience:
+
+- **Framework:** React 19  
+- **Build Tool:** Vite  
+- **Styling:** Bootstrap 5 / CSS  
+- **Routing:** React Router + HashRouter  
+- **Animations:** Framer Motion  
+- **Icons:** React Icons  
+- **API Integration:** Fetching products dynamically from an external API  
+
+---
+
+## ✨ Key Features
+
+- **Fully Responsive:** Works perfectly on all devices (Mobile, Tablet, Desktop)  
+- **Dynamic Product Display:** Products are loaded from an external API in real-time  
+- **Smooth Animations:** Engaging animations using Framer Motion  
+- **Fast Loading:** Optimized production build with Vite  
+- **HashRouter Navigation:** Prevents 404 errors on GitHub Pages  
+
+---
+
+## 🌐 Pages & Links
+
+- **Home:** [Home](https://soadamrf.github.io/shopco/#/)  
+- **On Sale:** [On Sale](https://soadamrf.github.io/shopco/#/on-sale)  
+- **New Arrivals:** [New Arrivals](https://soadamrf.github.io/shopco/#/new-arrivals)  
+- **Brands:** [Brands](https://soadamrf.github.io/shopco/#/brands)  
+- **Men’s Products:** [Men](https://soadamrf.github.io/shopco/#/men)  
+- **Women’s Products:** [Women](https://soadamrf.github.io/shopco/#/women)  
+- **Product Details Example:** [Product Details](https://soadamrf.github.io/shopco/#/product/1) *(replace `1` with the product ID)*  
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/soadamrf/shopco.git
+cd shopco
